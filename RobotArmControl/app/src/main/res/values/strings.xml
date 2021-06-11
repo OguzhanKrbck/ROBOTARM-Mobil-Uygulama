@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RobotArmControl</string>
+    <string name="col1">Adet</string>
+    <string name="col2">İsim</string>
+    <string name="col3">Ne işe yarar</string>
+    <string name="row1_1">1</string>
+    <string name="row1_2">NodeMCU ESP8266</string>
+    <string name="row1_3">Programlanabilen bir devre kartıdır</string>
+    <string name="row2_1">4</string>
+    <string name="row2_2">Mini Servo Motor</string>
+    <string name="row2_3">Hareketlerin Sağlanması</string>
+    <string name="row3_1">1</string>
+    <string name="row3_2">Breadboard</string>
+    <string name="row3_3">Devrelerin test edildiği araçtır</string>
+    <string name="row4_1">1</string>
+    <string name="row4_2">Breadboard Power Supply 5v</string>
+    <string name="row4_3">Breadboarda güç sağlar</string>
+    <string name="row5_1">1</string>
+    <string name="row5_2">5V 1A AC Adaptör</string>
+    <string name="row5_3">Power supply ünitesi için güç sağlar </string>
+    <string name="row6_1">*</string>
+    <string name="row6_2">Bağlantı Kabloları</string>
+    <string name="row6_3">Bağlantıların sağlanması</string>
+    <string name="row7_1">1</string>
+    <string name="row7_2">Robotik Kol</string>
+    <string name="row7_3">İstenilen eylemli gerçekleştirir</string>
+    <string name="row_2_1_1">Arduino IDE</string>
+    <string name="row_2_1_2">Arduino IDE, arduino kitleri için geliştirdiği; komutların yazılmasına, derleme işleminin yapılmasına ve son olarakta derlenen kodları doğrudan Arduino kite yüklenmesine olanak sağlayan yazılım geliştirme platformudur.</string>
+    <string name="row_2_2_1">Blynk</string>
+    <string name="row_2_2_2">iOS ve Android uygulamalarının internet aracılığıyla  Arduino, Raspberry Pi  gibi birimleri kontrol etmesini sağlıyan platformdur. Kendi uygulaması ile (Blynk App) basit tasarımlar yapılabilir.</string>
+    <string name="row_3_1_1">BlynkAPI</string>
+    <string name="row_3_1_2">Basit tasarımlar dışında özgün projeler veya daha kapsamlı tasarımlar kullanabilmek için tasarlanmıştır. Blynk serverlarına projenin auth_tokeniyle istek atılarak kullanılır. </string>
+    <string name="about_me">Merhaba geleceğimizde önemli bir rol alacağını düşündüğüm IoT teknolojileriyle ilgili yaptığım projede aynı ağda bulunan cihazların iletişimi üzerinde çalıştım. Sonuç olarakta mobil cihazınız üzerinden kontrol edebileceğiniz bir robot el ürettim. </string>
+
+</resources>
